@@ -442,9 +442,9 @@
     "item.kubejs.extradimensional_optical_cpu_core": "超次元光学CPUコア",
     "item.kubejs.extradimensional_wetware_cpu_core": "超次元ウェットウェアCPUコア",
     "item.kubejs.extradimensional_crystal_cpu_core": "超次元クリスタルCPUコア",
-    "item.kubejs.extradimensional_quantum_cpu_core": "超次元量子CPUコア"
-    "item.kubejs.inert_prismatic_core": "不活性プリズマティックコア"
-    "item.kubejs.red_prismatic_core": "赤色プリズマティックコア"
-    "item.kubejs.yellow_prismatic_core": "黄色プリズマティックコア"
+    "item.kubejs.extradimensional_quantum_cpu_core": "超次元量子CPUコア",
+    "item.kubejs.inert_prismatic_core": "不活性プリズマティックコア",
+    "item.kubejs.red_prismatic_core": "赤色プリズマティックコア",
+    "item.kubejs.yellow_prismatic_core": "黄色プリズマティックコア",
     "item.kubejs.green_prismatic_core": "緑色プリズマティックコア"
 }
